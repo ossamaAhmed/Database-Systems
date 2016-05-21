@@ -1,0 +1,19 @@
+(a)
+| Grpd     | group:int       | winners:bag{:tuple(date:bytearray,type:chararray,parl:int,prov:chararray,riding:chararray,lastname:chararray,firstname:chararray,gender:chararray,occupation:chararray,party:chararray,votes:int,percent:double,elected:int)}                                                                                           | 
+
+The Group by results are nested
+Usually when we have
+R =  (a1,b1,c1) (a1,b2,c2) (a3,b3,c3)
+	Group R by A;
+	Result:
+		(a1, {(a1,b1,c1),(a1,b2,c2)})
+		(a3, {a3,b3,c3})
+
+
+(b)
+HadoopVersion	PigVersion	UserId	StartedAt	FinishedAt	Features
+2.7.2	0.15.0	cs421g16	2016-04-10 20:45:22	2016-04-10 20:46:03	HASH_JOIN,GROUP_BY,FILTER
+
+It took the query 41 seconds to execute
+
+

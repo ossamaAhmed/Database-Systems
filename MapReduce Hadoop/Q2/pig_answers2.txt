@@ -1,0 +1,19 @@
+(i) (a) How many Maps and Reduces are generated in each job?
+		There are two jobs used: For the first job that
+		Job 1: 1 Map, 0 Reduce
+		Job 2: 2 Map, 1 Reduce 
+
+	(b)  joint (won::date:bytearray, won::type:chararray, won::parl:int, won::prov:chararray, won::riding:chararray, won::lastname:chararray,
+	            won::firstname:chararray, won::gender:chararray, won::occupation:chararray, won::party:chararray, won::votes:int, won::percent:double,
+	            won::elected:int, lost::date:bytearray, lost::type:chararray, lost::parl:int, lost::prov:chararray, lost::riding:chararray, lost::lastname:chararray, 
+	           lost::firstname:chararray, lost::gender:chararray, lost::occupation:chararray , lost::party:chararray, lost::votes:int, lost::percent:double, lost::elected:int) 
+    
+    (c) How long did the query take to execute?
+    	StartTime: 18:51:09, FinishTime: 18:51:46 => it took 37 ms
+
+ (ii) (a) Change the scriptto have the join step run with 4 reduce tasks
+ 		  Job 1: 1 Map, 0 Reduce 
+ 		  Job 2: 2 Map, 4 Reduce 
+
+       (b) StartTime: 19:51:46, FinishTime: 19:52:28 => 14 + 28 ms = 42 ms 
+       (c) We were expecting a lower execution time given that there were more redcuers used.

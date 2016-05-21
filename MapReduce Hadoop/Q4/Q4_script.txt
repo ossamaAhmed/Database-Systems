@@ -1,0 +1,5 @@
+raw = LOAD '/data2/cl03.csv' USING PigStorage(',') AS  (date, type:chararray, parl:int, prov:chararray, riding:chararray, lastname:chararray, firstname:chararray, gender:chararray, occupation:chararray, party:chararray, votes:int, percent:double, elected:int);
+parliments = group raw by (parl, party);
+distnct = DISTINCT parliments;
+gen = foreach distnct generate CONCAT((chararray)group.parl, CONCAT(',', CONCAT((chararray)group.party, CONCAT(',',(chararray)COUNT($1)))));
+STORE gen INTO 'q4';

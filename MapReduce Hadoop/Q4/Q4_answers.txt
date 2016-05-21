@@ -1,0 +1,597 @@
+1,Liberal,87
+1,Unknown,159
+1,Independent,1
+1,Conservative,102
+1,Anti-Confederate,19
+1,Independent Liberal,2
+1,Liberal-Conservative,41
+1,Independent Conservative,2
+2,Liberal,132
+2,Unknown,105
+2,Independent,6
+2,Conservative,96
+2,Conservative-Labour,1
+2,Independent Liberal,4
+2,Liberal-Conservative,52
+2,Independent Conservative,3
+3,Liberal,197
+3,Unknown,153
+3,Independent,17
+3,Conservative,92
+3,Conservative-Labour,2
+3,Independent Liberal,7
+3,Liberal-Conservative,54
+3,Independent Conservative,4
+4,Liberal,136
+4,Unknown,138
+4,Independent,12
+4,Conservative,134
+4,Independent Liberal,5
+4,Liberal-Conservative,70
+4,Independent Conservative,4
+4,Nationalist Conservative,1
+5,Liberal,129
+5,Unknown,131
+5,Independent,7
+5,Conservative,148
+5,Independent Liberal,3
+5,Liberal-Conservative,51
+5,Independent Conservative,5
+5,Nationalist Conservative,2
+6,Liberal,203
+6,Unknown,35
+6,Independent,15
+6,Nationalist,7
+6,Conservative,212
+6,Equal Rights,1
+6,Independent Liberal,9
+6,Liberal-Conservative,35
+6,Independent Conservative,13
+6,Nationalist Conservative,2
+7,Liberal,220
+7,Unknown,15
+7,Independent,7
+7,Nationalist,1
+7,Progressive,2
+7,Conservative,237
+7,Equal Rights,2
+7,Independent Liberal,2
+7,Liberal-Conservative,36
+7,Independent Conservative,7
+7,Nationalist Conservative,1
+8,Labour,1
+8,Liberal,235
+8,Unknown,1
+8,Independent,20
+8,McCarthyite,11
+8,Nationalist,1
+8,Conservative,215
+8,Independent Liberal,2
+8,Patrons of Industry,31
+8,Liberal-Conservative,19
+8,Independent Conservative,4
+8,Protestant Protective Association,5
+9,Labour,3
+9,Liberal,251
+9,Unknown,3
+9,Independent,14
+9,Conservative,223
+9,Independent Labor,1
+9,Independent Liberal,6
+9,Liberal-Conservative,11
+9,Independent Conservative,4
+10,Labour,3
+10,Liberal,252
+10,Unknown,18
+10,Socialist,3
+10,Independent,7
+10,Nationalist,1
+10,Conservative,229
+10,Independent Liberal,4
+10,Liberal-Conservative,6
+10,Independent Conservative,3
+11,Labour,3
+11,Liberal,223
+11,Unknown,7
+11,Socialist,5
+11,Independent,15
+11,Nationalist,1
+11,Conservative,214
+11,Independent Liberal,6
+11,Liberal-Conservative,4
+11,Independent Conservative,3
+12,Labour,3
+12,Liberal,223
+12,Unknown,11
+12,Socialist,6
+12,Independent,13
+12,Nationalist,2
+12,Conservative,247
+12,Liberal-Conservative,3
+12,Independent Conservative,3
+12,Nationalist Conservative,2
+13,Labour,24
+13,Liberal,8
+13,Unknown,18
+13,Government,215
+13,Opposition,214
+13,Independent,8
+13,Nationalist,1
+13,Progressive,1
+13,Conservative,3
+13,United Farmers,3
+13,Opposition-Labour,8
+13,Independent Liberal,3
+13,Nationalist Liberal,1
+13,Non-Partisan League,3
+13,United Farmers-Labour,1
+13,Independent Conservative,2
+13,United Farmers of Ontario,3
+13,United Farmers of Ontario-Labour,1
+13,National Liberal and Conservative Party,2
+14,Labour,32
+14,Liberal,245
+14,Unknown,12
+14,Socialist,1
+14,Independent,45
+14,Progressive,139
+14,Conservative,216
+14,Independent Liberal,1
+14,Independent Progressive,1
+14,Independent Conservative,2
+14,United Farmers of Alberta,2
+14,United Farmers of Ontario,1
+15,Farmer,1
+15,Labour,20
+15,Liberal,220
+15,Unknown,6
+15,Socialist,1
+15,Independent,9
+15,Progressive,68
+15,Conservative,234
+15,Farmer Labour,1
+15,Labour Farmer,2
+15,Independent Labor,1
+15,Independent Liberal,10
+15,Liberal Progressive,1
+15,Liberal Protectionist,2
+15,Independent Progressive,1
+15,Independent Conservative,6
+15,United Farmers of Alberta,2
+15,Independent Liberal Progressive,1
+16,Labour,18
+16,Liberal,232
+16,Unknown,1
+16,Socialist,1
+16,Independent,10
+16,Progressive,29
+16,Conservative,240
+16,Labour Farmer,1
+16,Protectionist,1
+16,Independent Liberal,8
+16,Liberal Progressive,12
+16,Liberal Labour Party,1
+16,Independent Conservative,4
+16,United Farmers of Alberta,12
+16,United Farmers of Ontario,1
+16,Liberal Labour Progressive,1
+17,Farmer,5
+17,Labour,10
+17,Liberal,238
+17,Unknown,2
+17,Franc Lib,1
+17,Independent,15
+17,Progressive,15
+17,Prohibition,1
+17,Conservative,263
+17,Farmer Labour,2
+17,Labour Farmer,2
+17,Liberal Labour,1
+17,United Farmers,1
+17,Independent Labor,2
+17,Independent Liberal,8
+17,Liberal Progressive,8
+17,Farmer-United Labour,1
+17,Liberal Protectionist,1
+17,Independent Progressive,1
+17,Independent Conservative,6
+17,Communist Party of Canada,6
+17,United Farmers of Alberta,11
+17,Co-operative Commonwealth Federation,3
+18,Labour,6
+18,Verdun,1
+18,Liberal,271
+18,Unknown,7
+18,Socialist,1
+18,Technocrat,1
+18,Independent,15
+18,Nationalist,1
+18,Conservative,243
+18,Anti-Communist,1
+18,Liberal Labour,3
+18,Veterans Party,1
+18,Independent Labor,1
+18,Unit� nationale,1
+18,Independent Liberal,29
+18,Liberal Progressive,5
+18,Reconstruction Party,173
+18,United Reform Movement,1
+18,Independent Nationalist,1
+18,Independent Conservative,5
+18,Communist Party of Canada,14
+18,Social Credit Party of Canada,47
+18,Independent Reconstruction Party,1
+18,United Farmers of Ontario-Labour,1
+18,Co-operative Commonwealth Federation,122
+19,Unity,2
+19,Labour,1
+19,Liberal,255
+19,Unknown,11
+19,Independent,25
+19,Conservative,11
+19,Farmer Labour,2
+19,New Democracy,21
+19,United Reform,2
+19,Canadian Party,2
+19,National Unity,1
+19,Canadian Labour,1
+19,National Labour,1
+19,United Progressive,1
+19,Independent Liberal,36
+19,Liberal Progressive,4
+19,National Government,203
+19,Anti-Conscriptionist,1
+19,New Democratic Party,1
+19,United Reform Movement,1
+19,Bloc populaire canadien,2
+19,Independent Nationalist,2
+19,Independent Conservative,5
+19,Labour Progressive Party,1
+19,Progressive Conservative,1
+19,Communist Party of Canada,9
+19,Independent Social Credit,1
+19,National Liberal Progressive,1
+19,Social Credit-National Unity,1
+19,Social Credit Party of Canada,12
+19,United Farmers of Ontario-Labour,1
+19,Co-operative Commonwealth Federation,102
+20,Labour,1
+20,Liberal,251
+20,Unknown,10
+20,Democrat,5
+20,Autonomist,1
+20,Independent,67
+20,Trades Union,1
+20,Farmer Labour,2
+20,Liberal Labour,1
+20,Socialist Labour,2
+20,Independent Labor,1
+20,Union of Electors,1
+20,Independent Liberal,21
+20,Liberal Progressive,1
+20,National Government,1
+20,Bloc populaire canadien,35
+20,Independent Conservative,1
+20,Labour Progressive Party,69
+20,Progressive Conservative,215
+20,Social Credit Party of Canada,98
+20,Co-operative Commonwealth Federation,216
+20,Independent Progressive Conservative,8
+20,Independent Co-operative Commonwealth Federation,2
+21,Labour,2
+21,Liberal,289
+21,Unknown,3
+21,Independent,37
+21,Nationalist,1
+21,Progressive,1
+21,Farmer Labour,1
+21,Liberal Labour,2
+21,Socialist Labour,1
+21,Union of Electors,56
+21,Unit� nationale,1
+21,Independent Liberal,22
+21,Liberal Progressive,1
+21,Labour Progressive Party,21
+21,Progressive Conservative,271
+21,Independent Social Credit,2
+21,Social Credit Party of Canada,29
+21,Co-operative Commonwealth Federation,193
+21,Independent Progressive Conservative,6
+22,Liberal,279
+22,Independent,18
+22,Nationalist,1
+22,Anti-Communist,1
+22,Liberal Labour,1
+22,Socialist Labour,1
+22,Christian Liberal,1
+22,Independent Liberal,25
+22,Liberal Progressive,1
+22,Liberal Labour Party,1
+22,Locataire (candidat),1
+22,Labour Progressive Party,106
+22,Progressive Conservative,265
+22,Independent Social Credit,2
+22,Social Credit Party of Canada,73
+22,Co-operative Commonwealth Federation,179
+22,Independent Progressive Conservative,3
+23,Labour,1
+23,Liberal,265
+23,Independent,15
+23,Liberal Labour,1
+23,Canadian Democrat,1
+23,Capital  familial,1
+23,Independent Liberal,27
+23,National Credit Control,1
+23,Labour Progressive Party,10
+23,Progressive Conservative,259
+23,Candidats des �lecteurs,1
+23,Independent Social Credit,2
+23,Social Credit Party of Canada,114
+23,Liberal Conservative Coalition,1
+23,Co-operative Commonwealth Federation,162
+23,Independent Progressive Conservative,6
+24,Liberal,278
+24,Unknown,1
+24,New Party,2
+24,Socialist,3
+24,Independent,9
+24,Liberal Labour,1
+24,Capital  familial,1
+24,Radical chr�tien,1
+24,Independent Liberal,10
+24,New Democratic Party,1
+24,Parti ouvrier canadien,1
+24,Independent Conservative,1
+24,Labour Progressive Party,19
+24,Progressive Conservative,278
+24,Candidats des �lecteurs,1
+24,Independent Social Credit,1
+24,Social Credit Party of Canada,83
+24,Co-operative Commonwealth Federation,173
+24,Independent Progressive Conservative,5
+25,Liberal,264
+25,Unknown,5
+25,Independent,12
+25,Liberal Labour,1
+25,Capital  familial,1
+25,All Canadian Party,1
+25,Independent Liberal,7
+25,New Democratic Party,218
+25,Ouvrier ind�pendent,1
+25,Progressive Conservative,266
+25,Communist Party of Canada,12
+25,Social Credit Party of Canada,227
+25,Cooperative Builders of Canada,1
+25,Candidat lib�ral des �lecteurs,1
+25,Independent Progressive Conservative,4
+26,Reform,1
+26,Liberal,270
+26,Independent,9
+26,Nationalist,1
+26,Liberal Labour,1
+26,Republican Party,1
+26,Socialist Labour,1
+26,Independent Liberal,6
+26,New Democratic Party,238
+26,Ouvrier ind�pendent,1
+26,Parti humain familial,1
+26,Ralliement Cr�ditiste,2
+26,Independent Conservative,2
+26,Progressive Conservative,271
+26,Communist Party of Canada,12
+26,Independent Social Credit,2
+26,Social Credit Party of Canada,224
+26,Candidat lib�ral des �lecteurs,1
+26,Independent Progressive Conservative,2
+27,Liberal,275
+27,Independent,29
+27,Conservative,1
+27,Esprit social,1
+27,New Canada Party,3
+27,Republican Party,1
+27,Socialist Labour,1
+27,Parti Rhinoc�ros,2
+27,Radical chr�tien,3
+27,Independent Liberal,12
+27,New Democratic Party,263
+27,Droit vital personnel,2
+27,Ouvrier ind�pendent,2
+27,Ralliement Cr�ditiste,77
+27,Independent Conservative,1
+27,Progressive Conservative,274
+27,Communist Party of Canada,12
+27,Independent Social Credit,2
+27,Progressive Workers Movement,1
+27,Social Credit Party of Canada,87
+27,Independent Progressive Conservative,4
+28,Liberal,273
+28,Franc Lib,1
+28,Republican,1
+28,Independent,32
+28,Conservative,1
+28,Esprit social,2
+28,Liberal Labour,1
+28,New Canada Party,1
+28,Republican Party,2
+28,Socialist Labour,1
+28,National Socialist,1
+28,Parti Rhinoc�ros,1
+28,Independent Liberal,11
+28,New Democratic Party,271
+28,Reform Party of Canada,1
+28,Ralliement Cr�ditiste,74
+28,Independent Conservative,1
+28,Progressive Conservative,274
+28,Communist Party of Canada,14
+28,Social Credit Party of Canada,37
+28,Independent Progressive Conservative,5
+28,Parti de la D�mocratisation �conomique,5
+29,Liberal,263
+29,Independent,53
+29,Parti Rhinoc�ros,1
+29,New Democratic Party,252
+29,Progressive Conservative,265
+29,Social Credit Party of Canada,164
+29,No affiliation to a recognised party,119
+30,Liberal,289
+30,Independent,75
+30,New Democratic Party,286
+30,Marxist-Leninist Party,104
+30,Progressive Conservative,289
+30,Communist Party of Canada,79
+30,Social Credit Party of Canada,162
+30,No affiliation to a recognised party,40
+31,Liberal,284
+31,Independent,50
+31,Union Populaire,69
+31,Parti Rhinoc�ros,63
+31,New Democratic Party,284
+31,Marxist-Leninist Party,144
+31,Progressive Conservative,284
+31,Communist Party of Canada,71
+31,Libertarian Party of Canada,59
+31,Social Credit Party of Canada,103
+31,No affiliation to a recognised party,20
+32,Liberal,294
+32,Independent,73
+32,Union Populaire,55
+32,Parti Rhinoc�ros,125
+32,New Democratic Party,292
+32,Marxist-Leninist Party,178
+32,Progressive Conservative,294
+32,Communist Party of Canada,52
+32,Libertarian Party of Canada,61
+32,Social Credit Party of Canada,83
+32,No affiliation to a recognised party,59
+33,Liberal,288
+33,Independent,72
+33,Parti Rhinoc�ros,91
+33,New Democratic Party,288
+33,Green Party of Canada,60
+33,Progressive Conservative,288
+33,Communist Party of Canada,51
+33,Libertarian Party of Canada,72
+33,Social Credit Party of Canada,52
+33,Parti Nationaliste du Qu�bec,75
+33,No affiliation to a recognised party,20
+33,Party for the Commonwealth of Canada,66
+33,Confederation of Regions Western Party,56
+34,Liberal,300
+34,Independent,66
+34,Parti Rhinoc�ros,75
+34,New Democratic Party,301
+34,Green Party of Canada,71
+34,Reform Party of Canada,73
+34,Progressive Conservative,300
+34,Communist Party of Canada,51
+34,Libertarian Party of Canada,90
+34,Social Credit Party of Canada,11
+34,Christian Heritage Party of Canada,66
+34,Co-operative Commonwealth Federation,1
+34,No affiliation to a recognised party,100
+34,Party for the Commonwealth of Canada,58
+34,Confederation of Regions Western Party,53
+35,Liberal,305
+35,Independent,137
+35,Canada Party,57
+35,Bloc Qu�b�cois,80
+35,New Democratic Party,304
+35,Green Party of Canada,83
+35,Marxist-Leninist Party,53
+35,Reform Party of Canada,217
+35,National Party of Canada,171
+35,Progressive Conservative,305
+35,Libertarian Party of Canada,53
+35,Natural Law Party of Canada,235
+35,Abolitionist Party of Canada,83
+35,Christian Heritage Party of Canada,63
+35,No affiliation to a recognised party,23
+35,Party for the Commonwealth of Canada,59
+36,Reform,4
+36,Liberal,309
+36,Independent,80
+36,Canadian Alliance,3
+36,Bloc Qu�b�cois,78
+36,New Democratic Party,311
+36,Canadian Action Party,61
+36,Green Party of Canada,85
+36,Marxist-Leninist Party,66
+36,Reform Party of Canada,229
+36,Progressive Conservative,310
+36,Natural Law Party of Canada,137
+36,Christian Heritage Party of Canada,54
+36,No affiliation to a recognised party,9
+37,Liberal,312
+37,Independent,31
+37,Marijuana Party,76
+37,Canadian Alliance,309
+37,Bloc Qu�b�cois,81
+37,New Democratic Party,310
+37,Canadian Action Party,70
+37,Green Party of Canada,115
+37,Marxist-Leninist Party,84
+37,Progressive Conservative,302
+37,Communist Party of Canada,52
+37,Natural Law Party of Canada,69
+37,Christian Heritage Party of Canada,4
+37,No affiliation to a recognised party,60
+38,Liberal,309
+38,Independent,56
+38,Conservative,1
+38,Marijuana Party,71
+38,Bloc Qu�b�cois,75
+38,New Democratic Party,309
+38,Canadian Action Party,45
+38,Green Party of Canada,309
+38,Marxist-Leninist Party,76
+38,Communist Party of Canada,35
+38,Progressive Canadian Party,16
+38,Libertarian Party of Canada,8
+38,Conservative Party of Canada,308
+38,Christian Heritage Party of Canada,62
+38,No affiliation to a recognised party,10
+39,Liberal,317
+39,Independent,93
+39,neorhino.ca,1
+39,Marijuana Party,23
+39,Bloc Qu�b�cois,79
+39,Parti Rhinoc�ros,2
+39,Western Block Party,4
+39,New Democratic Party,317
+39,Canadian Action Party,40
+39,Green Party of Canada,316
+39,Marxist-Leninist Party,69
+39,Communist Party of Canada,21
+39,Progressive Canadian Party,26
+39,Libertarian Party of Canada,10
+39,Conservative Party of Canada,317
+39,Christian Heritage Party of Canada,45
+39,No affiliation to a recognised party,5
+39,First Peoples National Party of Canada,5
+39,Animal Alliance Environment Voters Party of Canada,2
+40,Liberal,314
+40,Independent,70
+40,neorhino.ca,8
+40,Conservative,7
+40,Marijuana Party,8
+40,Work Less Party,1
+40,Bloc Qu�b�cois,77
+40,Western Block Party,1
+40,New Democratic Party,315
+40,Canadian Action Party,20
+40,Green Party of Canada,310
+40,Marxist-Leninist Party,60
+40,Pirate Party of Canada,1
+40,United Party of Canada,1
+40,Progressive Conservative,1
+40,Communist Party of Canada,25
+40,Progressive Canadian Party,10
+40,Libertarian Party of Canada,27
+40,Conservative Party of Canada,307
+40,Christian Heritage Party of Canada,62
+40,No affiliation to a recognised party,4
+40,Newfoundland and Labrador First Party,3
+40,First Peoples National Party of Canada,6
+40,People's Political Power Party of Canada,2
+40,Animal Alliance Environment Voters Party of Canada,4
+
